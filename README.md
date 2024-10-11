@@ -1,1 +1,3 @@
-# Tarea2-Mineria-de-Datos
+# Mineria-de-Datos
+
+## Stefany Samantha Abigail Coromac Huezo 
